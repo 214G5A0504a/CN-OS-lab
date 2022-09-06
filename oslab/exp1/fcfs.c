@@ -3,7 +3,7 @@ Name Of the Candidate: L. Ashok
    Title of the Experiment: CPU Scheduling Using FCFS Algorithm
    Date of Creation: 29-08-2022
    Date of Execution: 29-08-2022
-*/
+
 #include<stdio.h>
 #include<conio.h>
 main()
